@@ -1,0 +1,9 @@
+{
+    "yaml.customTags": [
+        "!file",
+        "!var:default='undefined':file",
+        "!var:default='undefined'",
+        "!var:file",
+        "!var",
+    ]
+}
