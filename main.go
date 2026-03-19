@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	BUILD_VERSION        = "0.1.0" // x-release-please-version
+	BUILD_VERSION        = "1.0.0" // x-release-please-version
 	INPUT_GITHUB_SECRETS = "GITHUB_SECRETS"
 )
 
